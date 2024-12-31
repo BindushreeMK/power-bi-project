@@ -26,4 +26,4 @@ The data can be sourced from a variety of formats including CSV, Excel, or datab
 
   ### Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/BindushreeMK/power-bi-project.git
