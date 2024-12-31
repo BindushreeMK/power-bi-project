@@ -23,3 +23,7 @@ The data can be sourced from a variety of formats including CSV, Excel, or datab
 - **Power BI Desktop**: You will need Power BI Desktop to open and interact with the dashboard (.pbix file).
 - **Data Source**: Ensure that the customer and sales data is available in the appropriate format (CSV, Excel, or Database).
 - **Power BI Service**: (Optional) To publish and share the reports with other users, Power BI Service can be used.
+
+  ### Clone the repository:
+```bash
+git clone 
